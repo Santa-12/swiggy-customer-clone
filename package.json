@@ -8,7 +8,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "build": "echo 'No build needed for Expo app",
+    "build": "echo \"No build step needed for Expo project\"",
     "lint": "expo lint"
   },
   "dependencies": {
